@@ -1,6 +1,6 @@
 dtgen
 =====
-A timestamp generator for my Zettelkasten (and hopefully yours too.)
+A general purpose timestamp generator
 
 To run:
 git clone https://github.com/shaunakgh/dtgen/
